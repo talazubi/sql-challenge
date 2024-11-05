@@ -1,1 +1,4 @@
 # sql-challenge
+
+## Project Overview
+In this data engineering project, I was provided a collection of historical employment data from the 1980s and 1990s. The data was given in the form of six CSV files, and I must covert the data into an SQL database, and successfully interpret the findings. Through my completion of this project, I familiarised myself with PostgreSQL to store and manage the data. I also used pgAdmin4, as it provides me with a graphical interpretation of the data and helps me visualise the results. Therefore, my completion of this project exhibits my proficiency in using tools such as PostgreSQL and pgAdmin4 for data modelling, data engineering and data analysis. 
